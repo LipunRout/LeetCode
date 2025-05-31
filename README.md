@@ -4,7 +4,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 
 ## 📅 Challenge Overview
 
-- **Start Date:** [Insert Start Date]
+- **Start Date:** [31-05-2025]
 - **Goal:** Solve at least one LeetCode problem every day for 100 days.
 - **Focus:** DSA concepts using Java.
 - **Platform:** [LeetCode](https://leetcode.com)
