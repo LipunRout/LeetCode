@@ -16,7 +16,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | Day | Problem | Topic | Solution |
 |-----|---------|-------|----------|
 | 1   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | BASICS OF JAVA | [Link](https://github.com/LipunRout/LeetCode/blob/main/Palindrome.java) |
-| 2   | ...     | ...   | ...      |
+| 2   | [Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=nxoay8y6) | BASICS OF JAVA | [Link](https://leetcode.com/problems/power-of-two/submissions/1650369838) |
+| 3   | ...     | ...   | ...      |
 
 > ✅ This table will be updated daily as I progress through the challenge.
 
