@@ -16,12 +16,12 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | Day | Problem | Topic | Solution |
 |-----|---------|-------|----------|
 | 1   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | BASICS OF JAVA | [Link](https://github.com/LipunRout/LeetCode/blob/main/Palindrome.java) |
-| 2   | [Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=nxoay8y6) | BASICS OF JAVA | [Link](https://github.com/LipunRout/LeetCode/blob/main/PowerofTwo.java) |
-| 3   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/?envType=problem-list-v2&envId=nxoay8y6) | BASICS OF JAVA | [Link](https://github.com/LipunRout/LeetCode/blob/main/FibonacciNumber.java) |
-| 4   | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=problem-list-v2&envId=nxoay8y6) | BASICS OF JAVA | [Link](https://github.com/LipunRout/LeetCode/blob/main/N-thTribonacciNumber.java) |
-| 5   | [Water Bottles](https://leetcode.com/problems/water-bottles/description/) | BASICS OF JAVA | [Link](https://github.com/LipunRout/LeetCode/blob/main/Waterbottles.java) |
-| 5   | [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=nxoay8y6) | Brute Force (Nested Loops) | [Link](https://github.com/LipunRout/LeetCode/blob/main/TwoSum.java) |
-| 6   | ...     | ...   | ...      |
+| 2   | [Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=nxoay8y6) | Loops, Modulo, Binary Thinking | [Link](https://github.com/LipunRout/LeetCode/blob/main/PowerofTwo.java) |
+| 3   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/?envType=problem-list-v2&envId=nxoay8y6) | Iteration, Dynamic Programming Basics | [Link](https://github.com/LipunRout/LeetCode/blob/main/FibonacciNumber.java) |
+| 4   | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=problem-list-v2&envId=nxoay8y6) | Iterative Dynamic Programming | [Link](https://github.com/LipunRout/LeetCode/blob/main/N-thTribonacciNumber.java) |
+| 5   | [Water Bottles](https://leetcode.com/problems/water-bottles/description/) | Simulation / Greedy Logic | [Link](https://github.com/LipunRout/LeetCode/blob/main/Waterbottles.java) |
+| 6   | [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=nxoay8y6) | Brute Force (Nested Loops) | [Link](https://github.com/LipunRout/LeetCode/blob/main/TwoSum.java) |
+| 7   | ...     | ...   | ...      |
 
 > ✅ This table will be updated daily as I progress through the challenge.
 
