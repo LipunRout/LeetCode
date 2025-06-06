@@ -21,7 +21,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 4   | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=problem-list-v2&envId=nxoay8y6) | Iterative Dynamic Programming | [Link](https://github.com/LipunRout/LeetCode/blob/main/N-thTribonacciNumber.java) |
 | 5   | [Water Bottles](https://leetcode.com/problems/water-bottles/description/) | Simulation / Greedy Logic | [Link](https://github.com/LipunRout/LeetCode/blob/main/Waterbottles.java) |
 | 6   | [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=nxoay8y6) | Brute Force (Nested Loops) | [Link](https://github.com/LipunRout/LeetCode/blob/main/TwoSum.java) |
-| 7   | ...     | ...   | ...      |
+| 7   | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) | Simulation of Addition + Carry Logic | [Link](https://github.com/LipunRout/LeetCode/blob/main/AddtoArray-FormofInteger.java) |
+| 8   | ...     | ...   | ...      |
 
 > ✅ This table will be updated daily as I progress through the challenge.
 
