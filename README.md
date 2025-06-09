@@ -24,7 +24,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 7   | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) | Simulation of Addition + Carry Logic | [Link](https://github.com/LipunRout/LeetCode/blob/main/AddtoArray-FormofInteger.java) |
 | 8   | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) | Linear Iteration with Conditional Logic | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumProductofTwoElementsinanArray.java) |
 | 9   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=nxoay8y6) | Two-pointer merge technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/MedianofTwoSortedArrays.java) |
-| 10   | ...     | ...   | ...      |
+| 10   | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Mathematical Sum Approach | [Link](https://github.com/LipunRout/LeetCode/blob/main/MissingNumber.java) |
+| 11   | ...     | ...   | ...      |
 
 > ✅ This table will be updated daily as I progress through the challenge.
 
