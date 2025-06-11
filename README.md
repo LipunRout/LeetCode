@@ -26,7 +26,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 9   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=nxoay8y6) | Two-pointer merge technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/MedianofTwoSortedArrays.java) |
 | 10   | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Mathematical Sum Approach | [Link](https://github.com/LipunRout/LeetCode/blob/main/MissingNumber.java) |
 | 11   | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Two Pointers & In-Place Array Modification | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveElement.java) |
-| 12   | ...     | ...   | ...      |
+| 12   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Two Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/SquaresofaSortedArray.java) |
+| 13   | ...     | ...   | ...      |
 
 > ✅ This table will be updated daily as I progress through the challenge.
 
