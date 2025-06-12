@@ -27,7 +27,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 10   | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Mathematical Sum Approach | [Link](https://github.com/LipunRout/LeetCode/blob/main/MissingNumber.java) |
 | 11   | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Two Pointers & In-Place Array Modification | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveElement.java) |
 | 12   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Two Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/SquaresofaSortedArray.java) |
-| 13   | ...     | ...   | ...      |
+| 13   | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Two Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/TwoSumInputArrayIsSorted.java) |
+| 14   | ...     | ...   | ...      |
 
 > ✅ This table will be updated daily as I progress through the challenge.
 
