@@ -29,7 +29,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 12   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Two Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/SquaresofaSortedArray.java) |
 | 13   | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Two Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/TwoSumInputArrayIsSorted.java) |
 | 14   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=nxoay8y6) |  Prefix & Suffix Product Arrays | [Link](https://github.com/LipunRout/LeetCode/blob/main/Day_14_ProductofArrayExceptSelf.java) |
-| 15   | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/?envType=problem-list-v2&envId=nxoay8y6) | Perfect Squares Insight | [Link](https://github.com/LipunRout/LeetCode/blob/main/Day_15_BulbSwitcher.java) |
+| 15   | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/?envType=problem-list-v2&envId=nxoay8y6) | Perfect Squares Insight | [Link](https://github.com/LipunRout/LeetCode/blob/main/Day_15_Bulb_Switcher.java) |
 | 14   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
