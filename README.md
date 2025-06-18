@@ -33,7 +33,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 16   | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/?envType=problem-list-v2&envId=nxoay8y6) | Linear Scan with Max & Second Max | [Link](https://github.com/LipunRout/LeetCode/blob/main/Day16_LargestNumberAtLeastTwiceofOthers.java) |
 | 17   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=nxoay8y6) | Two-Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/ContainerWithMostWater.java) |
 | 18   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=problem-list-v2&envId=nxoay8y6) | Greedy + Constant Space Optimization | [Link](https://github.com/LipunRout/LeetCode/blob/main/IncreasingTripletSubsequencer.java) |
-| 19   | ...     | ...   | ...      |
+| 19   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=problem-list-v2&envId=nxoay8y6) |  Greedy Algorithm | [Link](https://github.com/LipunRout/LeetCode/blob/main/BestTimetoBuyandSellStock.java) |
+| 20   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
