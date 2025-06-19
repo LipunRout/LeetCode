@@ -34,7 +34,9 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 17   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=nxoay8y6) | Two-Pointer Technique | [Link](https://github.com/LipunRout/LeetCode/blob/main/ContainerWithMostWater.java) |
 | 18   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=problem-list-v2&envId=nxoay8y6) | Greedy + Constant Space Optimization | [Link](https://github.com/LipunRout/LeetCode/blob/main/IncreasingTripletSubsequencer.java) |
 | 19   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=problem-list-v2&envId=nxoay8y6) |  Greedy Algorithm | [Link](https://github.com/LipunRout/LeetCode/blob/main/BestTimetoBuyandSellStock.java) |
-| 20   | ...     | ...   | ...      |
+| 20   | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=problem-list-v2&envId=nxoay8y6) |  Sliding Window / Linear Traversal | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumAscendingSubarraySum.java) |
+
+| 21   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
