@@ -37,6 +37,9 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 20   | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=problem-list-v2&envId=nxoay8y6) |  Sliding Window / Linear Traversal | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumAscendingSubarraySum.java) |
 | 21   | [Find Lucky Integerinan Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/?envType=problem-list-v2&envId=nxoay8y6) |  HashMap / Frequency Count | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindLuckyIntegerinanArray.java) |
 | 22   | [Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=nxoay8y6) |  Search Algorithms / Divide & Conquer | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinarySearch.java) |
+| 23   | [Find First and Last Position of Elementin Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Searchr | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindFirstandLastPositionofElementinSortedArray.java) |
+
+
 | 23   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
