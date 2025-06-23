@@ -39,7 +39,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 22   | [Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=nxoay8y6) |  Search Algorithms / Divide & Conquer | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinarySearch.java) |
 | 23   | [Find First and Last Position of Elementin Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Searchr | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindFirstandLastPositionofElementinSortedArray.java) |
 | 24   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search | [Link](https://github.com/LipunRout/LeetCode/blob/main/SearchinRotatedSortedArray.java) |
-| 24   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindMinimuminRotatedSortedArray.java) |
+| 25   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindMinimuminRotatedSortedArray.java) |
 
 
 
