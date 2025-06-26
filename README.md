@@ -40,14 +40,15 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 23   | [Find First and Last Position of Elementin Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Searchr | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindFirstandLastPositionofElementinSortedArray.java) |
 | 24   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search | [Link](https://github.com/LipunRout/LeetCode/blob/main/SearchinRotatedSortedArray.java) |
 | 25   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindMinimuminRotatedSortedArray.java) |
-| 25   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Peak Finding | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindPeakElement.java) |
+| 26   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Peak Finding | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindPeakElement.java) |
+| 27   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Array Insertion | [Link](https://github.com/LipunRout/LeetCode/blob/main/SearchInsertPosition.java) |
 
 
 
 
 
 
-| 26   | ...     | ...   | ...      |
+| 27   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
