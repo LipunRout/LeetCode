@@ -43,6 +43,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 26   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Peak Finding | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindPeakElement.java) |
 | 27   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Array Insertion | [Link](https://github.com/LipunRout/LeetCode/blob/main/SearchInsertPosition.java) |
 | 28   | [Sort Colors](https://leetcode.com/problems/sort-colors/) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/SortColors.java) |
+| 29   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumSubarray.java) |
 
 
 
