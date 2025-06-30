@@ -45,17 +45,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 28   | [Single Elementina Sorted Array](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Array Insertion | [Link](https://github.com/LipunRout/LeetCode/blob/main/SingleElementinaSortedArray.java) |
 | 29   | [Sort Colors](https://leetcode.com/problems/sort-colors/) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/SortColors.java) |
 | 30   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumSubarray.java) |
-
-
-
-
-
-
-
-
-
-
-| 31   | ...     | ...   | ...      |
+| 31   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/TrappingRainWater.java) |
+| 32   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
