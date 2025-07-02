@@ -47,6 +47,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 30   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumSubarray.java) |
 | 31   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search / Two Pointers | [Link](https://github.com/LipunRout/LeetCode/blob/main/TrappingRainWater.java) |
 | 32   | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |   Counting + Index Math  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindTargetIndicesAfterSortingArray.java) |
+| 33   | [Largest Number](https://leetcode.com/problems/largest-number/?envType=problem-list-v2&envId=nxoay8y6) |   Counting + Index Math  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LargestNumber.java) |
+
 
 
 
