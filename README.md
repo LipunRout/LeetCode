@@ -51,6 +51,9 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 34   | [Maximum Count of Positive Integerand Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/MaximumCountofPositiveIntegerandNegativeInteger.java) |
 | 35   | [Plus One](https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/PlusOne.java) |
 | 36   | [KthLargest Elementinan Array](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/KthLargestElementinanArray.java) |
+| 37   | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/AverageSalaryExcludingtheMinimumandMaximumSalary.java) |
+
+
 
 
 
