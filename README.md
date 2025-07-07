@@ -52,7 +52,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 35   | [Plus One](https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/PlusOne.java) |
 | 36   | [KthLargest Elementinan Array](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/KthLargestElementinanArray.java) |
 | 37   | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?envType=problem-list-v2&envId=nxoay8y6) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/AverageSalaryExcludingtheMinimumandMaximumSalary.java) |
-| 37   | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ImplementStackusingQueues.java) |
+| 38   | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |   Binary Search on Sorted Array  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ImplementStackusingQueues.java) |
 
 
 
@@ -61,7 +61,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 
 
 
-| 38   | ...     | ...   | ...      |
+| 40   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
