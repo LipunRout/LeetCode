@@ -57,7 +57,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 40   | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ImplementQueueusingStacks.java) |
 | 41   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LongestConsecutiveSequence.java) |
 | 42   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindtheDuplicateNumber.java) |
-| 43   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LastStoneWeight.java) |
+| 43   | [Last Stone Weight](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LastStoneWeight.java) |
 
 | 42   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
