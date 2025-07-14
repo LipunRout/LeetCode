@@ -59,6 +59,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 42   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindtheDuplicateNumber.java) |
 | 43   | [Last Stone Weight](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LastStoneWeight.java) |
 | 44   | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindPivotIndex.java) |
+| 44   | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/BoatstoSavePeople.java) |
+
 
 
 | 42   | ...     | ...   | ...      |
