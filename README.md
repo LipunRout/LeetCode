@@ -55,17 +55,18 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 38   | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |   Two Stack Technique  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ImplementStackusingQueues.java) |
 | 39   | [Min Stack](https://leetcode.com/problems/min-stack/description/) |  Two Queue Approach (Main + Helper) | [Link](https://github.com/LipunRout/LeetCode/blob/main/MinStack.java) |
 | 40   | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ImplementQueueusingStacks.java) |
-| 41   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LongestConsecutiveSequence.java) |
-| 42   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindtheDuplicateNumber.java) |
-| 43   | [Last Stone Weight](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LastStoneWeight.java) |
-| 44   | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindPivotIndex.java) |
-| 45   | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/BoatstoSavePeople.java) |
-| 45   | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/?envType=problem-list-v2&envId=nxoay8y6) |   Two Stacks for FIFO Queue Simulation  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicateLetters.java) |
+| 41   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   Find the longest streak of consecutive numbers in an unsorted array.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LongestConsecutiveSequence.java) |
+| 42   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Given an array with n + 1 integers, each in range [1, n], find the one duplicate number.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindtheDuplicateNumber.java) |
+| 43   | [Last Stone Weight](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=nxoay8y6) |   Simulate a game where you repeatedly smash the two heaviest stones until one or none is left.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/LastStoneWeight.java) |
+| 44   | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=problem-list-v2&envId=nxoay8y6) |   Find the index where the sum of elements on the left equals the sum on the right.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/FindPivotIndex.java) |
+| 45   | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/?envType=problem-list-v2&envId=nxoay8y6) |   Find the minimum number of boats required to carry everyone, with a weight limit and at most 2 people per boat.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/BoatstoSavePeople.java) |
+| 46   | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/?envType=problem-list-v2&envId=nxoay8y6) |    Return the length of the last word in a given string.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicateLetters.java) |
+| 47   | [Kth-Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/KthMissingPositiveNumber.java) |
 
 
 
 
-| 42   | ...     | ...   | ...      |
+| 48   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
