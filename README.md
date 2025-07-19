@@ -62,14 +62,15 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 45   | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/?envType=problem-list-v2&envId=nxoay8y6) |   Find the minimum number of boats required to carry everyone, with a weight limit and at most 2 people per boat.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/BoatstoSavePeople.java) |
 | 46   | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/?envType=problem-list-v2&envId=nxoay8y6) |    Return the length of the last word in a given string.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicateLetters.java) |
 | 47   | [Kth-Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/KthMissingPositiveNumber.java) |
-| 48   | [Kth-Missing Positive Number](https://leetcode.com/problems/reverse-words-in-a-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ReverseWordsinaString.java) |
+| 48   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ReverseWordsinaString.java) |
+| 49   | [String Compression](https://leetcode.com/problems/reverse-words-in-a-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/StringCompression.java) |
 
 
 
 
 
 
-| 48   | ...     | ...   | ...      |
+| 50   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
