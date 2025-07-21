@@ -65,7 +65,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 48   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ReverseWordsinaString.java) |
 | 49   | [String Compression](https://leetcode.com/problems/reverse-words-in-a-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/StringCompression.java) |
 | 50   | [Decode String](https://leetcode.com/problems/decode-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/DecodeString.java) |
-
+| 50   | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RedistributeCharacterstoMakeAllStringsEqual.java) |
 
 
 
