@@ -66,7 +66,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 49   | [String Compression](https://leetcode.com/problems/reverse-words-in-a-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/StringCompression.java) |
 | 50   | [Decode String](https://leetcode.com/problems/decode-string/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/DecodeString.java) |
 | 51   | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RedistributeCharacterstoMakeAllStringsEqual.java) |
-| 51   | [ConsecutiveCharacters](https://leetcode.com/problems/consecutive-characters/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ConsecutiveCharacters.java) |
+| 52   | [ConsecutiveCharacters](https://leetcode.com/problems/consecutive-characters/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ConsecutiveCharacters.java) |
+| 53   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidPalindrome.java) |
 
 
 
@@ -74,7 +75,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 
 
 
-| 50   | ...     | ...   | ...      |
+| 54   | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
