@@ -68,8 +68,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 51   | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RedistributeCharacterstoMakeAllStringsEqual.java) |
 | 52   | [ConsecutiveCharacters](https://leetcode.com/problems/consecutive-characters/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ConsecutiveCharacters.java) |
 | 53   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidPalindrome.java) |
-| 53   | [Valid Parentheses](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidParentheses.java) |
-
+| 54   | [Valid Parentheses](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidParentheses.java) |
+| 55   | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/MinimumAddtoMakeParenthesesValid.java) |
 
 
 
