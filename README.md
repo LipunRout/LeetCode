@@ -71,6 +71,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 54   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidPalindrome.java) |
 | 55   | [Valid Parentheses](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidParentheses.java) |
 | 56   | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/MinimumAddtoMakeParenthesesValid.java) |
+| 57   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidAnagram.java) |
 
 
 
