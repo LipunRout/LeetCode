@@ -74,13 +74,15 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 57   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidAnagram.java) |
 | 58   | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/MatrixDiagonalSum.java) |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/SpiralMatrix2.java) |
+| 60   | [Rotate Image](https://leetcode.com/problems/spiral-matrix-ii/description/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RotateImage.java) |
 
 
 
 
 
 
-| 54   | ...     | ...   | ...      |
+
+|    | ...     | ...   | ...      |
 > ✅ This table will be updated daily as I progress through the challenge.
 
 ---
