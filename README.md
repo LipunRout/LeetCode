@@ -77,6 +77,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 60   | [Rotate Image](https://leetcode.com/problems/spiral-matrix-ii/description/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RotateImage.java) |
 | 61   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/PalindromeLinkedList.java) |
 | 62   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/MergeTwoSortedLists.java) |
+| 63   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicatesfromSortedList.java) |
 
 
 
