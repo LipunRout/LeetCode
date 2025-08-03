@@ -79,6 +79,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 62   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/MergeTwoSortedLists.java) |
 | 63   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicatesfromSortedList.java) |
 | 64   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/AddTwoNumbers.java) |
+| 64   | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=problem-list-v2&envId=nxoay8y6) |   Remove duplicates and return the smallest lexicographical string possible.  | [Link](https://github.com/LipunRout/LeetCode/blob/main/DoubleaNumberRepresentedasaLinkedList.java) |
+
 
 
 
