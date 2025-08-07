@@ -81,7 +81,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 65   | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/DoubleaNumberRepresentedasaLinkedList.java) |
 | 66   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/OddEvenLinkedList.java) |
 | 67   | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/IntersectionofTwoLinkedLists.java) |
-| 67   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveNthNodeFromEndofList.java) |
+| 68   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveNthNodeFromEndofList.java) |
+| 69   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/DeleteNodeinaLinkedList.java) |
 
 
 
