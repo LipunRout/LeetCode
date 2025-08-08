@@ -83,7 +83,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 67   | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/IntersectionofTwoLinkedLists.java) |
 | 68   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveNthNodeFromEndofList.java) |
 | 69   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/DeleteNodeinaLinkedList.java) |
-
+| 70   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LinkedListCycle.java) |
 
 
 
