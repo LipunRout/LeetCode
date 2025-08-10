@@ -84,7 +84,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 68   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveNthNodeFromEndofList.java) |
 | 69   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/DeleteNodeinaLinkedList.java) |
 | 70   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LinkedListCycle.java) |
-| 70   | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LinkedListCycle2.java) |
+| 71   | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LinkedListCycle2.java) |
+| 72   | [Remove Linked List Elements](https://leetcode.com/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveLinkedListElements.java) |
 
 
 
