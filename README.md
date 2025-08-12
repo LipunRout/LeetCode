@@ -86,7 +86,9 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 70   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LinkedListCycle.java) |
 | 71   | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LinkedListCycle2.java) |
 | 72   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveLinkedListElements.java) |
-| 72   | [Next Greater Node In Linked List](http://leetcode.com/problems/next-greater-node-in-linked-list/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/NextGreaterNodeInLinkedList.java) |
+| 73   | [Next Greater Node In Linked List](http://leetcode.com/problems/next-greater-node-in-linked-list/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/NextGreaterNodeInLinkedList.java) |
+| 74   | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/DeletetheMiddleNodeofaLinkedList.java) |
+
 
 
 
