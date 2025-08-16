@@ -91,7 +91,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 75   | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/MergeNodesinBetweenZeros.java) |
 | 76   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/MergekSortedLists.java) |
 | 77   | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/UnivaluedBinaryTree.java) |
-
+| 78   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/CountCompleteTreeNodes.java) |
 
 
 
