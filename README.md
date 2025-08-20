@@ -95,7 +95,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 79   | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SymmetricTree.java) |
 | 80   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreePostorderTraversal.java) |
 | 81   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreeLevelOrderTraversal.java) |
-
+| 82   | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreePaths.java) |
 
 
 
