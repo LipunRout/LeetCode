@@ -97,6 +97,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 81   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreeLevelOrderTraversal.java) |
 | 82   | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreePaths.java) |
 | 83   | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreeZigzagLevelOrderTraversal.java) |
+| 83   | [Roman to Integer](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RomantoInteger.java) |
+
 
 
 
