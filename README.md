@@ -100,7 +100,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 84   | [Roman to Integer](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/?envType=problem-list-v2&envId=nxoay8y6) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RomantoInteger.java) |
 | 85   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LongestCommonPrefix.java) |
 | 86   | [Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SameTree.java) |
-
+| 87   | [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/MajorityElement.java) |
 
 
 
