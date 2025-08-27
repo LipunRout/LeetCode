@@ -102,6 +102,14 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 86   | [Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SameTree.java) |
 | 87   | [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/MajorityElement.java) |
 | 88   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicatesfromSortedArray.java) |
+| 89   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ContainsDuplicate.java) |
+
+
+
+
+
+
+
 
 
 
