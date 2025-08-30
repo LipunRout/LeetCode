@@ -103,9 +103,9 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 87   | [Majority Element](https://leetcode.com/problems/majority-element/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/MajorityElement.java) |
 | 88   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/RemoveDuplicatesfromSortedArray.java) |
 | 89   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ContainsDuplicate.java) |
-| 90   | [Climbing Stairs](https://leetcode.com/problems/contains-duplicate/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ClimbingStairs.java) |
-| 91   | [Single Number](https://leetcode.com/problems/contains-duplicate/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SingleNumber.java) |
-
+| 90   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ClimbingStairs.java) |
+| 91   | [Single Number](https://leetcode.com/problems/single-number/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SingleNumber.java) |
+| 92   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/Sqrt_x.java) |
 
 
 
