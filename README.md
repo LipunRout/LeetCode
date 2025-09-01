@@ -106,7 +106,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 90   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ClimbingStairs.java) |
 | 91   | [Single Number](https://leetcode.com/problems/single-number/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SingleNumber.java) |
 | 92   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/Sqrt_x.java) |
-
+| 93   | [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/4Sum.java) |
 
 
 
