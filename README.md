@@ -107,8 +107,8 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 91   | [Single Number](https://leetcode.com/problems/single-number/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/SingleNumber.java) |
 | 92   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/Sqrt_x.java) |
 | 93   | [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/4Sum.java) |
-| 93   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreeInorderTraversal.java) |
-
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreeInorderTraversal.java) |
+| 95   | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ConvertaNumbertoHexadecimal.java) |
 
 
 
