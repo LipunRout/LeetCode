@@ -110,7 +110,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BinaryTreeInorderTraversal.java) |
 | 95   | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ConvertaNumbertoHexadecimal.java) |
 | 96   | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LowestCommonAncestorofaBinarySearchTree.java) |
-
+| 96   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidateBinarySearchTree.java) |
 
 
 
