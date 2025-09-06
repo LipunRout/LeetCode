@@ -112,7 +112,7 @@ Welcome to my **100 Days of LeetCode Challenge** focused on **Data Structures an
 | 96   | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/LowestCommonAncestorofaBinarySearchTree.java) |
 | 97   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ValidateBinarySearchTree.java) |
 | 98   | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/ConvertSortedListtoBinarySearchTree.java) |
-
+| 99   | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | [Link](https://github.com/LipunRout/LeetCode/blob/main/BalanceaBinarySearchTree.java) |
 
 
 
